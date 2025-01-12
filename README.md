@@ -8,7 +8,7 @@ This repository is dedicated to solving one coding problem daily to enhance prob
 
 | Day   | Problem Description                                                                                                 | Difficulty | Asked By | Link to Solution      |
 |-------|---------------------------------------------------------------------------------------------------------------------|------------|----------|------------------------|
-| Day 1 | Given a list of numbers and a number `k`, determine if any two numbers in the list add up to `k`.                   | Easy       | Google   | [Solution](daily#1.py) |
+| Day 1 | Given a list of numbers and a number `k`, determine if any two numbers in the list add up to `k`.                   | Easy       | Google   | [Solution](daily_1.py) |
 
 ---
 
