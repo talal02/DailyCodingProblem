@@ -10,6 +10,7 @@ This repository is dedicated to solving one coding problem daily to enhance prob
 |-------|---------------------------------------------------------------------------------------------------------------------|------------|----------|------------------------|
 | Day 1 | Given a list of numbers and a number `k`, determine if any two numbers in the list add up to `k`.                   | Easy       | Google   | [Solution](daily_1.py) |
 | Day 2 | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.                   | Hard       | Uber   | [Solution](daily_2.py) |
+| Day 3 | Given the root to a binary tree, count the number of unival subtrees.                   | Easy       | Google   | [Solution](daily_3.py) |
 
 ---
 
@@ -60,3 +61,30 @@ Given an array of integers, return a new array such that each element at index i
 For detailed implementations, see the [solution file](daily_2.py).
 
 ---
+
+## Day 3 Problem Description
+
+**Difficulty:** Easy
+**Asked By:** Google
+
+### Problem Statement (3)
+
+A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value.
+
+Given the root to a binary tree, count the number of unival subtrees.
+
+#### Example (3)
+
+For example, the following tree has 5 unival subtrees:
+
+```
+   0
+  / \
+ 1   0
+    / \
+   1   0
+  / \
+ 1   1
+```
+
+For detailed implementations, see the [solution file](daily_3.py).
